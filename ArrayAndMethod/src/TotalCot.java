@@ -6,7 +6,7 @@ public class TotalCot {
         int column, row;
         Scanner input = new Scanner(System.in);
         System.out.println("Enter two-dimensional array size");
-        System.out.println("Emter row: ");
+        System.out.println("Enter row: ");
         row = input.nextInt();
         System.out.println("Enter column");
         column = input.nextByte();
